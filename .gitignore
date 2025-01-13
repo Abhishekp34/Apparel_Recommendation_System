@@ -1,1 +1,8 @@
-tops_fasshion.json
+tops_fashion.json
+16k_images
+dedupe/
+pickels/
+image_similarity_cnn.ipynb
+word2vec_model
+16k_data_cnn_feature_asins.npy
+.DS_Store
